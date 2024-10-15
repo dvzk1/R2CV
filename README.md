@@ -75,6 +75,22 @@ Algumas referências essenciais para sua jornada:
    YouTube: [https://www.youtube.com/channel/UCf0WB91t8Ky6AuYcQV0CcLw?app=desktop](https://www.youtube.com/channel/UCf0WB91t8Ky6AuYcQV0CcLw?app=desktop)  
    Um canal do YouTube focado em desmistificar os princípios fundamentais da Visão Computacional. Ideal para iniciantes e entusiastas do tema.
 
+### Cursos e Playlists
+
+1. **CS 198-126: Deep Learning for Visual Data (Berkeley)**
+Notion: https://ml-berkeley.notion.site/CS-198-126-Deep-Learning-for-Visual-Data-a57e2aca54c046edb7014439f81ba1d5
+
+2. **Computer Vision Course (University of Tübingen)**
+Roadmap: https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/computer-vision/
+
+3. **Deep Learning for Computer Vision (FreeCodeCamp)**
+Playlist: https://www.youtube.com/watch?v=IA3WxTTPXqQ&ab_channel=freeCodeCamp.org
+Colab: https://colab.research.google.com/drive/18u1KDx-9683iZNPxSDZ6dOv9319ZuEC_
+
+4. **Computer Vision Course (NPTEL - Indian Institute)**
+Playlist: https://www.youtube.com/playlist?list=PLyqSpQzTE6M_PI-rIz4O1jEgffhJU9GgG
+Curso: https://archive.nptel.ac.in/courses/106/106/106106224/
+
 ---
 
 ## Contato:
