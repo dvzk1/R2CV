@@ -10,10 +10,10 @@ A ideia principal do repositório é oferecer um compilado de notebooks e outros
 
 ## Conteúdo do Repositório:
 
-O repositório será organizado em várias seções, cada uma dedicada a um aspecto específico da visão computacional:
+O repositório será organizado em várias seções correspondentes ao cronograma semanal pré definido, cada uma dedicada a um aspecto introdutório específico em visão computacional:
 
-- Tópico 1
-- Tópico 2
+- Semana 1: Boas-vindas / Introdução à Visão Computacional e Estrutura de Imagens
+- ...
 - ...
 - ...
 - ...
