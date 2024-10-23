@@ -31,7 +31,7 @@ Convidamos todos os estudantes e entusiastas de visão computacional a contribui
 - Documentação e tutoriais adicionais
 - Melhoria dos materiais existentes
 
-Para contribuir, siga as instruções na seção [CONTRIBUTING.md](https://github.com/dvzk1/R2CV/blob/main/CONTRIBUTE.md).
+Para contribuir, siga as instruções na seção [CONTRIBUTING.md](https://github.com/dvzk1/R2CV/blob/main/CONTRIBUTING.md).
 
 ## Como Começar
 
