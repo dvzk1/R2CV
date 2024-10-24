@@ -12,7 +12,10 @@ A ideia principal do repositório é oferecer um compilado de notebooks e outros
 
 O repositório será organizado em várias seções correspondentes ao cronograma semanal pré definido, cada uma dedicada a um aspecto introdutório específico em visão computacional:
 
-- Semana 1: Boas-vindas / Introdução à Visão Computacional e Estrutura de Imagens
+### Semana 1: Boas-vindas / Introdução à Visão Computacional e Estrutura de Imagens
+- 📑 **Slides**: [Acesse os slides da semana 1](https://github.com/dvzk1/R2CV/tree/main/slides/semana-1)
+- 📓 **Notebook**: [Acesse o notebook da semana 1](https://github.com/dvzk1/R2CV/tree/main/notebooks/semana-1)
+  
 - ...
 - ...
 - ...
@@ -28,7 +31,7 @@ Convidamos todos os estudantes e entusiastas de visão computacional a contribui
 - Documentação e tutoriais adicionais
 - Melhoria dos materiais existentes
 
-Para contribuir, siga as instruções na seção [CONTRIBUTING.md](https://github.com/dvzk1/R2CV/blob/main/CONTRIBUTE.md).
+Para contribuir, siga as instruções na seção [CONTRIBUTING.md](https://github.com/dvzk1/R2CV/blob/main/CONTRIBUTING.md).
 
 ## Como Começar
 
