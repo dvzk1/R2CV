@@ -22,7 +22,7 @@ O repositório será organizado em várias seções correspondentes ao cronogram
 
 ### Semana 3: Detecção de Bordas e Extração de Características
 - 📑 **Slides**: [Acesse os slides da semana 3](https://github.com/dvzk1/R2CV/tree/main/slides/semana-3)
-- 📓 **Notebook**: [Acesse o notebook da semana 2]()
+- 📓 **Notebook**: [Acesse o notebook da semana 3]()
   
 - ...
 - ...
