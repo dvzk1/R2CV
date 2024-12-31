@@ -24,10 +24,21 @@ O repositório será organizado em várias seções correspondentes ao cronogram
 - 📑 **Slides**: [Acesse os slides da semana 3](https://github.com/dvzk1/R2CV/tree/main/slides/semana-3)
 - 📓 **Notebook**: [Acesse o notebook da semana 3](https://github.com/dvzk1/R2CV/tree/main/notebooks/semana-3)
   
-- ...
-- ...
-- ...
-- ...
+### Semana 4: Algoritmos Clássicos vs Modernos para Detecção e Reconhecimento
+- 📑 **Slides**: [Acesse os slides da semana 4](https://github.com/dvzk1/R2CV/tree/main/slides/semana-4)
+- 📓 **Notebook**: [Acesse o notebook da semana 4](https://github.com/dvzk1/R2CV/tree/main/notebooks/semana-4)
+
+### Semana 5: Introdução ao Deep Learning – Redes Neurais Perceptron e MLP
+- 📑 **Slides**: [Acesse os slides da semana 5](https://github.com/dvzk1/R2CV/tree/main/slides/semana-5)
+- 📓 **Notebook**: [Acesse o notebook da semana 5](https://github.com/dvzk1/R2CV/tree/main/notebooks/semana-5)
+
+### Semana 6: Regularização e Otimização em Redes Neurais
+- 📑 **Slides**: [Acesse os slides da semana 6](https://github.com/dvzk1/R2CV/tree/main/slides/semana-6)
+- 📓 **Notebook**: [Acesse o notebook da semana 6](https://github.com/dvzk1/R2CV/tree/main/notebooks/semana-6)
+
+- ### Semana 7: Introdução à Redes Neurais Convolucionais (CNNs)
+- 📑 **Slides**: [Acesse os slides da semana 7](https://github.com/dvzk1/R2CV/tree/main/slides/semana-7)
+- 📓 **Notebook**: [Acesse o notebook da semana 7](https://github.com/dvzk1/R2CV/tree/main/notebooks/semana-7)
 
 ---
 
