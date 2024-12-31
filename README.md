@@ -15,19 +15,37 @@ O repositório será organizado em várias seções correspondentes ao cronogram
 ### Semana 1: Boas-vindas / Introdução à Visão Computacional e Estrutura de Imagens
 - 📑 **Slides**: [Acesse os slides da semana 1](https://github.com/dvzk1/R2CV/tree/main/slides/semana-1)
 - 📓 **Notebook**: [Acesse o notebook da semana 1](https://github.com/dvzk1/R2CV/tree/main/notebooks/semana-1)
+- 📽️ **Vídeo**: [Acesse o vídeo da semana 1](infelizmente não foi gravado)
 
 ### Semana 2: Estrutura das Imagens Digitais e Espaços de Cores
 - 📑 **Slides**: [Acesse os slides da semana 2](https://github.com/dvzk1/R2CV/tree/main/slides/semana-2)
 - 📓 **Notebook**: [Acesse o notebook da semana 2](https://github.com/dvzk1/R2CV/tree/main/notebooks/semana-2)
+- 📽️ **Vídeo**: [Acesse o vídeo da semana 2](https://drive.google.com/file/d/1fBkqsvzqDbU5EVCCaIyF-hn1jZrOzY5b/view?usp=sharing)
 
 ### Semana 3: Detecção de Bordas e Extração de Características
 - 📑 **Slides**: [Acesse os slides da semana 3](https://github.com/dvzk1/R2CV/tree/main/slides/semana-3)
 - 📓 **Notebook**: [Acesse o notebook da semana 3](https://github.com/dvzk1/R2CV/tree/main/notebooks/semana-3)
+- 📽️ **Vídeo**: [Acesse o vídeo da semana 3](https://drive.google.com/file/d/1L0X7wZZ5ZnuJswAFAw08AOg-sOSoLaZC/view?usp=sharing)
   
-- ...
-- ...
-- ...
-- ...
+### Semana 4: Algoritmos Clássicos vs Modernos para Detecção e Reconhecimento
+- 📑 **Slides**: [Acesse os slides da semana 4](https://github.com/dvzk1/R2CV/tree/main/slides/semana-4)
+- 📓 **Notebook**: [Acesse o notebook da semana 4](https://github.com/dvzk1/R2CV/tree/main/notebooks/semana-4)
+- 📽️ **Vídeo**: [Acesse o vídeo da semana 4](https://drive.google.com/file/d/1Fz-jbdqW--54Bl2d6icc3_wBVm5FTCuw/view?usp=sharing)
+
+### Semana 5: Introdução ao Deep Learning – Redes Neurais Perceptron e MLP
+- 📑 **Slides**: [Acesse os slides da semana 5](https://github.com/dvzk1/R2CV/tree/main/slides/semana-5)
+- 📓 **Notebook**: [Acesse o notebook da semana 5](https://github.com/dvzk1/R2CV/tree/main/notebooks/semana-5)
+- 📽️ **Vídeo**: [Acesse o vídeo da semana 5](https://drive.google.com/file/d/15QNUIHcGm4gN-a1BLHrBe7YwMmRvL3YC/view?usp=sharing)
+
+### Semana 6: Regularização e Otimização em Redes Neurais
+- 📑 **Slides**: [Acesse os slides da semana 6](https://github.com/dvzk1/R2CV/tree/main/slides/semana-6)
+- 📓 **Notebook**: [Acesse o notebook da semana 6](https://github.com/dvzk1/R2CV/tree/main/notebooks/semana-6)
+- 📽️ **Vídeo**: [Acesse o vídeo da semana 6](https://drive.google.com/file/d/1TQOVQ1yN-RNOdTPAjKLtLSX5KAJzRk1J/view?usp=sharing)
+
+- ### Semana 7: Introdução à Redes Neurais Convolucionais (CNNs)
+- 📑 **Slides**: [Acesse os slides da semana 7](https://github.com/dvzk1/R2CV/tree/main/slides/semana-7)
+- 📓 **Notebook**: [Acesse o notebook da semana 7](https://github.com/dvzk1/R2CV/tree/main/notebooks/semana-7)
+- 📽️ **Vídeo**: [Acesse o vídeo da semana 7](https://drive.google.com/file/d/1tGHUJ1jsgEh41zy9Sonn0SWp7m-I4OO4/view?usp=sharing)
 
 ---
 
